@@ -1,4 +1,5 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem "jekyll", "~> 4.1"
-gem "jekyll-environment-variables"
+source 'https://rubygems.org'
+
+gemspec
